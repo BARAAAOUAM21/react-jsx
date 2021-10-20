@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+.imgInsrc{
+  width: 400PX;
+  height: auto;
+}
+.red{
+  color: red;
+  text-align: center;
+}
+.imgs{
+  display: flex;
+  justify-content:space-around ;
+  margin-top: 8%;
+}
